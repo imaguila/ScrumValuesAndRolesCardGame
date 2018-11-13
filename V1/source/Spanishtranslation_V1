@@ -1,0 +1,151 @@
+PAGE=21,29.7,PORTRAIT,HV,#ffffff
+BORDER=NONE,#d3d3d3,0,MARK
+GAP=0.5,0.5
+
+IMAGE="1,2,3", "background.jpg", 0, 0, 6, 9, 0
+IMAGE="4-12", "background2.jpg", 0, 0, 6, 9, 0
+IMAGE="13-17", "background3.jpg", 0, 0, 6, 9, 0
+IMAGE="18-27", "background4.jpg", 0, 0, 6, 9, 0
+FONT="Segoe UI", 5, "T", "#ffffff"
+TEXT="1-27", "By Julio Oliveira", 2.3, 8.6, 5, 2.8, "left", "wordwrap"
+
+FONT="Segoe UI Black", 18, "T", "#000000"
+TEXT="1", "ScrumMaster", 0, 0, 6, 1.5, "center", "center"
+IMAGE="1", "card1.jpg", 1, 1.5, 4, 4, 0
+[card_1]="Responsable de asegurarse de que un equipo siga los valores y las prácticas de Scrum. A menudo se le considera un entrenador, ayudando al equipo a hacer el mejor trabajo posible"
+FONT="Segoe UI Black", 9, "T", "#ffffff"
+TEXT="1", [card_1], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+FONT="Segoe UI Black", 18, "T", "#000000"
+TEXT="2", "Product Owner", 0, 0, 6, 1.5, "center", "center"
+IMAGE="2", "card2.jpg", 1, 1.5, 4, 4, 0
+[card_2]="Responsable del alcance del producto. Establece una visión de lo que se desea construir, transmitiéndola al Equipo Scrum"
+FONT="Segoe UI Black", 9, "T", "#ffffff"
+TEXT="2", [card_2], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+FONT="Segoe UI Black", 18, "T", "#000000"
+TEXT="3", "Development Team", 0, 0, 6, 1.5, "center", "center"
+IMAGE="3", "card3.jpg", 1, 1.5, 4, 4, 0
+[card_3]="Responsable del desarrollo del producto. Cada miembro del equipo debe contribuir de la manera que sea posible para completar el trabajo de cada sprint"
+FONT="Segoe UI Black", 9, "T", "#ffffff"
+TEXT="3", [card_3], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+FONT="Segoe UI Black", 18, "T", "#000000"
+TEXT="4-12", "Responsabilidad", 0, 0, 6, 1.5, "center", "center"
+FONT="Segoe UI Black", 9, "T", "#ffffff"
+
+IMAGE="4", "card4.jpg", 1, 1.5, 4, 4, 0
+[card_4]="Trabaje en estrecha colaboración con los stakeholders clave de la organización para comunicarse, definir y priorizar la cartera de productos.."
+TEXT="4", [card_4], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="5", "card5.jpg", 1, 1.5, 4, 4, 0
+[card_5]="Decisor de qué características tendrá el producto."
+TEXT="5", [card_5], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="6", "card6.jpg", 1, 1.5, 4, 4, 0
+[card_6]="Prioriza el product backlog en el sprint planning meeting."
+TEXT="6", [card_6], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="7", "card7.jpg", 1, 1.5, 4, 4, 0
+[card_7]="Hace todo lo posible para ayudar al equipo a rendir al máximo nivel"
+TEXT="7", [card_7], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="8", "card8.jpg", 1, 1.5, 4, 4, 0
+[card_8]="Elimina todos los impedimentos para el progreso, facilita las reuniones y ayuda a resolver conflictos."
+TEXT="8", [card_8], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="9", "card9.jpg", 1, 1.5, 4, 4, 0
+[card_9]="Protege al equipo de distracciones externas, lo que permite a los miembros del equipo concentrarse durante el sprint en la meta que han seleccionado."
+TEXT="9", [card_9], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="10", "card10.jpg", 1, 1.5, 4, 4, 0
+[card_10]="Decide qué herramientas y técnicas utilizar, y qué personas trabajarán en qué tareas"
+TEXT="10", [card_10], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="11", "card11.jpg", 1, 1.5, 4, 4, 0
+[card_11]="Have total authority over how the work gets done."
+TEXT="11", [card_11], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="12", "card12.jpg", 1, 1.5, 4, 4, 0
+[card_12]="Poner en práctica los resultados que resulten de las reuniones retrospectivas."
+TEXT="12", [card_12], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+
+FONT="Segoe UI Black", 18, "T", "#000000"
+TEXT="13", "Valores Scrum", 0, 0, 6, 1.5, "center", "center"
+IMAGE="13", "card13.jpg", 1, 1.5, 4, 4, 0
+[card_13]="Compromiso"
+FONT="Segoe UI Black", 14, "T", "#ffffff"
+TEXT="13", [card_13], 0.5, 6.6, 5, 2.8, "center", "wordwrap"
+
+FONT="Segoe UI Black", 18, "T", "#000000"
+TEXT="14", "Valores Scrum", 0, 0, 6, 1.5, "center", "center"
+IMAGE="14", "card14.jpg", 1, 1.5, 4, 4, 0
+[card_14]="Concentración"
+FONT="Segoe UI Black", 14, "T", "#ffffff"
+TEXT="14", [card_14], 0.5, 6.6, 5, 2.8, "center", "wordwrap"
+
+FONT="Segoe UI Black", 18, "T", "#000000"
+TEXT="15", "Valores Scrum", 0, 0, 6, 1.5, "center", "center"
+IMAGE="15", "card15.jpg", 1, 1.5, 4, 4, 0
+[card_15]="Mente abierta"
+FONT="Segoe UI Black", 14, "T", "#ffffff"
+TEXT="15", [card_15], 0.5, 6.6, 5, 2.8, "center", "wordwrap"
+
+FONT="Segoe UI Black", 18, "T", "#000000"
+TEXT="16", "Valores Scrum", 0, 0, 6, 1.5, "center", "center"
+IMAGE="16", "card16.jpg", 1, 1.5, 4, 4, 0
+[card_16]="Respeto"
+FONT="Segoe UI Black", 14, "T", "#ffffff"
+TEXT="16", [card_16], 0.5, 6.6, 5, 2.8, "center", "wordwrap"
+
+FONT="Segoe UI Black", 18, "T", "#000000"
+TEXT="17", "Valores Scrum", 0, 0, 6, 1.5, "center", "center"
+IMAGE="17", "card17.jpg", 1, 1.5, 4, 4, 0
+[card_17]="Corage"
+FONT="Segoe UI Black", 14, "T", "#ffffff"
+TEXT="17", [card_17], 0.5, 6.6, 5, 2.8, "center", "wordwrap"
+
+FONT="Segoe UI Black", 18, "T", "#000000"
+TEXT="18-27", "Comportamiento", 0, 0, 6, 1.5, "center", "center"
+FONT="Segoe UI Black", 9, "T", "#ffffff"
+
+IMAGE="18", "card18.jpg", 1, 1.5, 4, 4, 0
+[card_18]="Dispuesto a crear objetivos realistas y atenerse a ellos"
+TEXT="18", [card_18], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="19", "card19.jpg", 1, 1.5, 4, 4, 0
+[card_19]="Estar presente en todas las reuniones"
+TEXT="19", [card_19], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="20", "card20.jpg", 1, 1.5, 4, 4, 0
+[card_20]="Tener un rol claro y objetivos claros dentro de ese rol"
+TEXT="20", [card_20], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="21", "card21.jpg", 1, 1.5, 4, 4, 0
+[card_21]="Pocas cosas a la vez"
+TEXT="21", [card_21], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="22", "card22.jpg", 1, 1.5, 4, 4, 0
+[card_22]="Ser abierto sobre el trabajo, el progreso, el aprendizaje y los problemas"
+TEXT="22", [card_22], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="23", "card23.jpg", 1, 1.5, 4, 4, 0
+[card_23]="Para colaborar a través de disciplinas y habilidades, también compartir comentarios y aprender unos de otros"
+TEXT="23", [card_23], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="24", "card24.jpg", 1, 1.5, 4, 4, 0
+[card_24]="La armonía se crea al sincronizar cada rol y, por lo tanto, se crea un ritmo de desarrollo a medida que el proyecto avanza"
+TEXT="24", [card_24], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="25", "card25.jpg", 1, 1.5, 4, 4, 0
+[card_25]="Los individuos son formados por su fondo y sus experiencias. Es importante aceptar a las diferentes personas que conforman un equipo"
+TEXT="25", [card_25], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="26", "card26.jpg", 1, 1.5, 4, 4, 0
+[card_26]="Confiar en el proceso Scrum para guiar el trabajo necesario para satisfacer los requisitos del producto"
+TEXT="26", [card_26], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
+
+IMAGE="27", "card27.jpg", 1, 1.5, 4, 4, 0
+[card_27]="No temer a que los impedimentos se eleven a diario"
+TEXT="27", [card_27], 0.5, 5.9, 5, 2.8, "left", "wordwrap"
