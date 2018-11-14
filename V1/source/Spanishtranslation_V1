@@ -102,7 +102,7 @@ TEXT="16", [card_16], 0.5, 6.6, 5, 2.8, "center", "wordwrap"
 FONT="Segoe UI Black", 18, "T", "#000000"
 TEXT="17", "Valores Scrum", 0, 0, 6, 1.5, "center", "center"
 IMAGE="17", "card17.jpg", 1, 1.5, 4, 4, 0
-[card_17]="Corage"
+[card_17]="Coraje"
 FONT="Segoe UI Black", 14, "T", "#ffffff"
 TEXT="17", [card_17], 0.5, 6.6, 5, 2.8, "center", "wordwrap"
 
