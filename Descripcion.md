@@ -21,7 +21,7 @@ No mas de 15 minutos.
 ## MATERIALES
 
 - Tarjetas impresas
-- Esquema de colocación de las cartas, [esquema](estruc.png)
+- Esquema de colocación de las cartas, [esquema](estruc.jpg)
 
 ## INSTRUCCIONES DE EJECUCIÓN
 
